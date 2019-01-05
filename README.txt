@@ -1,1 +1,1 @@
-este es mi archivo git de js
+este es mi archivo git de js donde se mejoran los archivos
