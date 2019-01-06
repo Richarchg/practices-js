@@ -1,4 +1,10 @@
-let msm = "bienvenidos a juegos mentales", c = console.log
+let text = "Bienvenidos a juegos mentales";
 
 
-c(msm.substring(0,11))
+// console.log(text.substring(8,11))
+// console.log(text.substr(8,3))
+console.log(text.slice(8,-5))
+
+
+// console.clear()
+
