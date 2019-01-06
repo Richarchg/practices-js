@@ -1,3 +1,4 @@
-let dialogo = "estoy tratando de reaprender js";
+let msm = "bienvenidos a juegos mentales", c = console.log
 
-console.log(dialogo.lastIndexOf("tr"))
+
+c(msm.substring(0,11))
